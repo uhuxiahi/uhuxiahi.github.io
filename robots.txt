@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uhuxiahi.github.io/DMf/sitemap_index.txt
+Sitemap: https://uhuxiahi.github.io/OHX/sitemap_index.txt
+Sitemap: https://uhuxiahi.github.io/Xkb/sitemap_index.txt
+Sitemap: https://uhuxiahi.github.io/eiZ/sitemap_index.txt
